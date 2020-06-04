@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: WP-CGV\n"
+"POT-Creation-Date: 2018-06-13 12:19+0300\n"
+"PO-Revision-Date: 2018-06-13 12:19+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-cgv.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class.wp-cgv.php:90 classes/class.wp-cgv.php:98
+#: classes/class.wp-cgv.php:454
+msgid "Conditions Générales de Vente"
+msgstr "Conditions Générales de Vente"
+
+#. Plugin Name of the plugin/theme
+#: classes/class.wp-cgv.php:264 classes/class.wp-cgv.php:265
+msgid "WP-CGV"
+msgstr "WP-CGV"
+
+#: classes/class.wp-cgv.php:283
+msgid "Reset"
+msgstr "Reset"
+
+#: classes/class.wp-cgv.php:284
+msgid "Prévisualiser vos CGV"
+msgstr "Prévisualiser vos CGV"
+
+#: classes/class.wp-cgv.php:285
+msgid "Voir le résultat final"
+msgstr "Voir le résultat final"
+
+#: classes/class.wp-cgv.php:293
+msgid "Votre entreprise"
+msgstr "Votre entreprise"
+
+#: classes/class.wp-cgv.php:296
+msgid "Vos options"
+msgstr "Vos options"
+
+#: classes/class.wp-cgv.php:299
+msgid "Vos CGV"
+msgstr "Vos CGV"
+
+#: classes/class.wp-cgv.php:305 classes/class.wp-cgv.php:385
+msgid "Enregistrer"
+msgstr "Enregistrer"
+
+#: classes/class.wp-cgv.php:383
+msgid "modèle type de CGV fourni par"
+msgstr "modèle type de CGV fourni par"
+
+#: classes/class.wp-cgv.php:384
+msgid "Adapter"
+msgstr "Adapter"
+
+#: classes/class.wp-cgv.php:386
+msgid "Explications"
+msgstr "Explications"
+
+#: classes/class.wp-cgv.php:387
+msgid "Modifier le titre"
+msgstr "Modifier le titre"
+
+#: classes/class.wp-cgv.php:388
+msgid "ARTICLE"
+msgstr "ARTICLE"
+
+#: classes/class.wp-cgv.php:389
+msgid "..."
+msgstr "..."
+
+#: classes/class.wp-cgv.php:603
+msgid ""
+"Pensez à ajouter un lien sur toutes les pages de votre site vers vos CGV. Ce "
+"plugin vous est offert gratuitement par <a href=\"http://donneespersonnelles."
+"fr\" title=\"Données personnelles\" target=\"_blank\">donneespersonnelles."
+"fr</a> - vous êtes libre de l’adapter en fonction de vos besoins. Si vous "
+"souhaitez une fonctionnalité spécifique dites le nous dans les <a href="
+"\"http://donneespersonnelles.fr/wp-cgv\" target=\"_blank\" title=\"WP-CGV"
+"\">commentaires</a>."
+msgstr ""
+"Pensez à ajouter un lien sur toutes les pages de votre site vers vos CGV. Ce "
+"plugin vous est offert gratuitement par <a href=\"http://donneespersonnelles."
+"fr\" title=\"Données personnelles\" target=\"_blank\">donneespersonnelles."
+"fr</a> - vous êtes libre de l’adapter en fonction de vos besoins. Si vous "
+"souhaitez une fonctionnalité spécifique dites le nous dans les <a href="
+"\"http://donneespersonnelles.fr/wp-cgv\" target=\"_blank\" title=\"WP-CGV"
+"\">commentaires</a>."
+
+#: parts/parts.php:5
+msgid "DEFINITION DES PARTIES"
+msgstr "DEFINITION DES PARTIES"
+
+#: parts/parts.php:11
+msgid "PREAMBULE"
+msgstr "PREAMBULE"
+
+#: parts/parts.php:16
+msgid "ARTICLE 1 - OBJET"
+msgstr "ARTICLE 1 - OBJET"
+
+#: parts/parts.php:21
+msgid "ARTICLE 2 - DISPOSITIONS  GENERALES"
+msgstr "ARTICLE 2 - DISPOSITIONS  GENERALES"
+
+#: parts/parts.php:26
+msgid "ARTICLE 3 - PRIX"
+msgstr "ARTICLE 3 - PRIX"
+
+#: parts/parts.php:31
+msgid "ARTICLE 4 - CONCLUSION DU CONTRAT EN LIGNE"
+msgstr "ARTICLE 4 - CONCLUSION DU CONTRAT EN LIGNE"
+
+#: parts/parts.php:36
+msgid "ARTICLE 5 - PRODUITS ET SERVICES"
+msgstr "ARTICLE 5 - PRODUITS ET SERVICES"
+
+#: parts/parts.php:41
+msgid "ARTICLE 6 - CLAUSE DE RESERVE DE PROPRIETE"
+msgstr "ARTICLE 6 - CLAUSE DE RESERVE DE PROPRIETE"
+
+#: parts/parts.php:46
+msgid "ARTICLE 7 - MODALITES DE LIVRAISON"
+msgstr "ARTICLE 7 - MODALITES DE LIVRAISON"
+
+#: parts/parts.php:51
+msgid "ARTICLE 8 - DISPONIBILITE ET PRESENTATION"
+msgstr "ARTICLE 8 - DISPONIBILITE ET PRESENTATION"
+
+#: parts/parts.php:56
+msgid "ARTICLE 9 - PAIMENT"
+msgstr "ARTICLE 9 - PAIMENT"
+
+#: parts/parts.php:61
+msgid "ARTICLE 10 - DELAI DE RETRACTATION"
+msgstr "ARTICLE 10 - DELAI DE RETRACTATION"
+
+#: parts/parts.php:66
+msgid "ARTICLE 11 - GARANTIES"
+msgstr "ARTICLE 11 - GARANTIES"
+
+#: parts/parts.php:71
+msgid "ARTICLE 12 - RECLAMATIONS"
+msgstr "ARTICLE 12 - RECLAMATIONS"
+
+#: parts/parts.php:76
+msgid "ARTICLE 13 - DROITS DE PROPRIETE INTELLECTUELLE"
+msgstr "ARTICLE 13 - DROITS DE PROPRIETE INTELLECTUELLE"
+
+#: parts/parts.php:81
+msgid "ARTICLE 14 - FORCE MAJEURE"
+msgstr "ARTICLE 14 - FORCE MAJEURE"
+
+#: parts/parts.php:86
+msgid "ARTICLE 15 - NULLITE ET MODIFICATION DU CONTRAT"
+msgstr "ARTICLE 15 - NULLITE ET MODIFICATION DU CONTRAT"
+
+#: parts/parts.php:91
+msgid "ARTICLE 16 - RGPD ET PROTECTION DES DONNEES PERSONNELLES"
+msgstr "ARTICLE 16 - RGPD ET PROTECTION DES DONNEES PERSONNELLES"
+
+#: parts/parts.php:96
+msgid "ARTICLE 17 - DROIT APPLICABLE"
+msgstr "ARTICLE 17 - DROIT APPLICABLE"
+
+#: tabs/first.php:6
+msgid "Le nom de votre entreprise"
+msgstr "Le nom de votre entreprise"
+
+#: tabs/first.php:7
+msgid "Entrez le nom de votre entreprise"
+msgstr "Entrez le nom de votre entreprise"
+
+#: tabs/first.php:11
+msgid "Capital social"
+msgstr "Capital social"
+
+#: tabs/first.php:12
+msgid "Entrez le capital social"
+msgstr "Entrez le capital social"
+
+#: tabs/first.php:20
+msgid "L’adresse de votre entreprise"
+msgstr "L’adresse de votre entreprise"
+
+#: tabs/first.php:21
+msgid "Entrez son adresse"
+msgstr "Entrez son adresse"
+
+#: tabs/first.php:25
+msgid "Code postal"
+msgstr "Code postal"
+
+#: tabs/first.php:26
+msgid "Entrez son code postal"
+msgstr "Entrez son code postal"
+
+#: tabs/first.php:30
+msgid "Ville"
+msgstr "Ville"
+
+#: tabs/first.php:31
+msgid "Entrez sa ville"
+msgstr "Entrez sa ville"
+
+#: tabs/first.php:39
+msgid "SIRET/SIREN"
+msgstr "SIRET/SIREN"
+
+#: tabs/first.php:40
+msgid "Entrez son numéro SIREN/SIRET"
+msgstr "Entrez son numéro SIREN/SIRET"
+
+#: tabs/first.php:48
+msgid "Nom du représentant de l’entreprise"
+msgstr "Nom du représentant de l’entreprise"
+
+#: tabs/first.php:49
+msgid "Entrez le nom du représentant de l’entreprise"
+msgstr "Entrez le nom du représentant de l’entreprise"
+
+#: tabs/first.php:53
+msgid "Qualité du représentant (ex : gérant, président)"
+msgstr "Qualité du représentant (ex : gérant, président)"
+
+#: tabs/first.php:54
+msgid "La fonction du représentant de l’entreprise"
+msgstr "La fonction du représentant de l’entreprise"
+
+#: tabs/first.php:62
+msgid "Point de contact email"
+msgstr "Point de contact email"
+
+#: tabs/first.php:63
+msgid "Entrez l’email du point de contact"
+msgstr "Entrez l’email du point de contact"
+
+#: tabs/first.php:67
+msgid "Point de contact téléphonique "
+msgstr "Point de contact téléphonique "
+
+#: tabs/first.php:68
+msgid "Entrez un numéro de téléphone"
+msgstr "Entrez un numéro de téléphone"
+
+#: tabs/second.php:4
+msgid ""
+"Indiquez une description générale des produits que vous vendez (ex : "
+"« produits de beauté », « formations en ligne sur l’entreprenariat »)"
+msgstr ""
+"Indiquez une description générale des produits que vous vendez (ex : "
+"« produits de beauté », « formations en ligne sur l’entreprenariat »)"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.donneespersonnelles.fr/wp-cgv"
+msgstr "http://www.donneespersonnelles.fr/wp-cgv"
+
+#. Description of the plugin/theme
+msgid "Generateur de CGV"
+msgstr "Generateur de CGV"
+
+#. Author of the plugin/theme
+msgid "T. Devergranne - DonneesPersonnelles.fr"
+msgstr "T. Devergranne - DonneesPersonnelles.fr"
+
+#. Author URI of the plugin/theme
+msgid "http://www.donneespersonnelles.fr"
+msgstr "http://www.donneespersonnelles.fr"
